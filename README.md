@@ -1,5 +1,6 @@
 <!---
 {
+  "id": "2ba87074-5f0a-4949-a25c-a34ab7fcce1e",
   "depends_on": ["boolean_algebra_intro"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-27",
