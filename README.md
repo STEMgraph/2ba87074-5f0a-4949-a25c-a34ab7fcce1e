@@ -2,7 +2,7 @@
 {
   "id": "2ba87074-5f0a-4949-a25c-a34ab7fcce1e",
   "teaches": "Simulating Boolean Logic with CircuitVerse",
-  "depends_on": ["boolean_algebra_intro"],
+  "depends_on": ["9a437897-663d-442b-82bd-f34643db7e4e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-27",
   "keywords": ["boolean logic", "logic simulator", "CircuitVerse", "simulation", "digital logic"]
